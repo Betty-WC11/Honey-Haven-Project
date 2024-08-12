@@ -5,16 +5,16 @@
 }
 
 .carousel-inner > .scraping-honey {
-    background-image: url("/carosel1_pic2_extracting\ honey.jpg");
+    background-image: url("./carosel1_pic2_extracting\ honey.jpg");
     
 }
 
 .carousel-inner > .man-farming-honey {
-    background-image: url("/carosel1_pic3_extracting\ honey.jpeg");
+    background-image: url("./carosel1_pic3_extracting\ honey.jpeg");
 }
 
 .carousel-inner > .honeypot {
-    background-image: url("/carosel1_pic4_pic\ of\ honey.jpeg");
+    background-image: url("./carosel1_pic4_pic\ of\ honey.jpeg");
 }
 
 .enlarge:hover {
